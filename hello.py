@@ -1,4 +1,3 @@
 if __name__ == '__main__':
     name = "Nadia"
-    print(f'Hello {name}. Welcome to the team')
-    
+    print(f'Happy to have you, {name}. Welcome to the team')
